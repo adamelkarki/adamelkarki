@@ -14,7 +14,7 @@
 ## Links 🖇️
 
 [LinkedIn](https://www.linkedin.com/in/adam-el-karki/)
-[Portfolio (v.0](https://mog4dor-showcase.vercel.app/)
+[Portfolio (v.0)](https://mog4dor-showcase.vercel.app/)
 
 ---
 
