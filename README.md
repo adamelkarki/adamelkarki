@@ -46,8 +46,8 @@ I am based in Paris 🇫🇷 and can work remotely. I speak French, English, and
 
 | Position                        | Period             | Company                      |
 |---------------------------------|--------------------|------------------------------|
-| Java Developer (Apprentice)     | 2023-Present       | Société Générale             |
-| Programmer Analyst (Intern)     | 2023-Present       | Société Générale, Canada     |
+| Java Developer     | 2023-Present       | Société Générale             |
+| Programmer Analyst      | 2023-Present       | Société Générale, Canada     |
 
 ---
 
