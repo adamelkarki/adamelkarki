@@ -25,14 +25,14 @@
 - **Frontend**: Angular
 
 **Languages & Frameworks**  
-- **Languages**: Java, TypeScript, C, C#, Scala
+- **Languages**: Java, TypeScript, C, C#, Scala, ViewJS
 - **Frameworks**: SpringBoot, Angular, AndroidStudio
 
 **Database**  
-- SQL, NoSQL (add specifics based on your experience)
+- SQL (PostgreSQL, PGAdmin, MySQL)
 
 **DevOps**  
-- Docker, Jenkins (add any other relevant tools you use)
+- Docker, Jenkins, Gitlab, AWS, Terraform
 
 ---
 
@@ -46,8 +46,8 @@ I am based in Paris 🇫🇷 and can work remotely. I speak French, English, and
 
 | Position                        | Period             | Company                      |
 |---------------------------------|--------------------|------------------------------|
-| Java Developer     | 2023-Present       | Société Générale             |
-| Programmer Analyst      | 2023-Present       | Société Générale, Canada     |
+| Java Developer                  | 2023-Present       | Société Générale             |
+| Programmer Analyst              | 2023-Present       | Société Générale, Canada     |
 
 ---
 
