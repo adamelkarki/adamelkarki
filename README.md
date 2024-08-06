@@ -58,3 +58,4 @@ I am based in Paris 🇫🇷 and can work remotely. I speak French, English, and
 | Software Engineering           | 2022-2025          | EFREI Paris                  |
 | Computer Science Diploma       | 2020-2022          | IUT de Montreuil             |
 
+Template from [Anthony Issa's readme ;)](https://github.com/anthonyissa)
