@@ -1,6 +1,6 @@
 # Adam El Karki
 
-👋 Hi! I’m Adam, 22, apprentice engineer and backend developer.
+👋 Hi! I’m Adam, apprentice engineer and backend developer.
 
 ---
 
