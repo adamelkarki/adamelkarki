@@ -14,7 +14,6 @@
 ## Links 🖇️
 
 [LinkedIn](https://www.linkedin.com/in/adam-el-karki/)
-[Portfolio (v.0)](https://mog4dor-showcase.vercel.app/)
 
 ---
 
@@ -35,27 +34,4 @@
 - Docker, Jenkins, Gitlab, AWS, Terraform
 
 ---
-
-## Location and Languages 📍
-
-I am based in Paris 🇫🇷 and can work remotely. I speak French, English, and Arabic.
-
----
-
-## Professional Experiences 🧑‍💻
-
-| Position                        | Period             | Company                      |
-|---------------------------------|--------------------|------------------------------|
-| Sofware Craftsman               | 2022-Present       | Société Générale             |
-| Programmer Analyst              | 2023-Present       | Société Générale, Canada     |
-
----
-
-## Academic Background 📚
-
-| Degree                         | Period             | Institution                  |
-|--------------------------------|--------------------|------------------------------|
-| Software Engineering           | 2022-2025          | EFREI Paris                  |
-| Computer Science Diploma       | 2020-2022          | IUT de Montreuil             |
-
 Template from [Anthony Issa's readme ;)](https://github.com/anthonyissa)
